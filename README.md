@@ -1,2 +1,3 @@
-# SirDrigons2D
-2025 RoboCup Soccer Simulator 2d team repository of SIRLab
+# SirDrigons2D ⚽  
+**Repositório oficial do time SIRLab para o RoboCup Soccer Simulator 2D (2025)**
+
